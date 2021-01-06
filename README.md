@@ -2,6 +2,8 @@
 
 I'm Samrith Shankar, a full-stack software developer from Bombay (🇮🇳), working in Paris (🇫🇷), with [Aircall](https://aircall.io).
 
+<a href="https://www.buymeacoffee.com/Sz4V6TJlU" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="125" /></a>
+
 - 🔭 I’m currently working on a personal project which is built using the following tech:
   - [NestJS](https://nestjs.com/)
   - [Prisma](https://prisma.io/)
